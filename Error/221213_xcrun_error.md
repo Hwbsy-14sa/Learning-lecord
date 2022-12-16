@@ -4,15 +4,11 @@
 
 ## 1. 문제발생
 
----
-
 "iterm2"을 실행 하였을 때, 아래와 같은 문구를 볼 수 있었다. </br>
 
 > <span style= "color: red"> [oh-my-zsh] Can't update: not a git repository.</span>
 
 ## 2. 현상분석
-
----
 
 셸 스크립트 이상여부를 확인해보기 위해 **`omz version`** 을 확인해본 결과 version이 확인되지 않으며 아래와 같은 문구가 출력된다.
 
@@ -25,8 +21,6 @@
 - 최근 <span style=color:orange>**`Ventura 13.0.1`**</span>로 Update를 진행했었다.
 
 ## 3. 문제해결
-
----
 
 1. 우선 git 상태를 확인해보기 위해 **`git --version`** 출력해본 결과 아래문구를 볼 수 있었다.
 
@@ -42,8 +36,6 @@
 <img width="506" alt="install" src="https://user-images.githubusercontent.com/58798715/207377116-00ce3168-5997-41f8-aee4-dde7c9709443.png">
 
 ## 4. 결과확인
-
----
 
 <span style="color:orange">**git** & **omz** version check </span> 정상으로 확인 된다.
 

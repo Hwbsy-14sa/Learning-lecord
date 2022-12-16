@@ -55,7 +55,7 @@ function sum(a = 1, b = 2) {
 
 부분적으로 필요할 경우도 있으나 작성 중 정말 필요한 부분에 선언을 누락할 수 있기 때문에 가능하다면 스크립트 `최상단`에 적용하는것을 권장한다.
 
-> `use strict`을 취소항 방법은 존재하지 않는다.
+> `use strict`을 취소할 방법은 존재하지 않는다.
 
 </br>
 
@@ -82,4 +82,4 @@ function sum(a = 1, b = 2) {
 3. 개체 속성 삭제 실패
    구성할 수 없거난 삭제할 수 없는 속성에 삭제 시도시 `use strict` 발동된다.
 
-이하 다양한 힝목이 있고, 이것은 참고자료로 확인하였던, [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)을 참고하길 바란다.
+이외 다양한 힝목이 있고, 이것은 참고자료로 확인하였던, [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)을 참고하길 바란다.
