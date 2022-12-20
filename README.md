@@ -17,3 +17,9 @@
 ### &nbsp; &nbsp;`2) JavaScript`
 
 - ### **[Javascript - use strict (2022-12-16)](/Javascript/use%20strict.md)**
+
+</br>
+
+### &nbsp; &nbsp; `3) AWS Fandametals`
+
+- ### **[Azure - 클라우드컴퓨팅 설명 (2022-12-21)](/AWS%20Fandametals/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%A4%EB%AA%85.md)**
