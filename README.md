@@ -24,3 +24,4 @@
 
 - ### **[Azure - 클라우드컴퓨팅 설명 (2022-12-21)](/AWS%20Fandametals/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85%EC%84%A4%EB%AA%85.md)**
 - ### **[Azure - 클라우드 사용의 이점 설명 (2022-12-22)](/AWS%20Fandametals/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%AC%EC%9A%A9%EC%9D%98%EC%9D%B4%EC%A0%90.md)**
+- ### **[Azure - 클라우드 서비스 유형 설명 (2022-12-26)](/AWS%20Fandametals/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9C%A0%ED%98%95.md)**
